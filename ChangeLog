@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: burnett  Sun May 12 09:21:02 PDT 2002
+mcRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+remove src folder from include paths
+    *
+------------------------------------------------------------
 User: heather  Thu May  9 08:13:02 PDT 2002
 mcRootData/src/test
 
