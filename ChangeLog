@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Jun 16 23:03:29 PDT 2004
+mcRootData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+use new RootPolicy
+    *
+------------------------------------------------------------
 User: heather  Wed Jun 16 23:02:35 PDT 2004
 mcRootData/cmt
 
