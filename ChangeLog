@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu Dec 18 22:55:51 PST 2003
+mcRootData/src
+
+Modified Files:
+	McEvent.cxx 
+Log Message:
+increase mcposhit array to 150000 elememts
+    *
+------------------------------------------------------------
 User: heather  Wed Dec 17 21:40:52 PST 2003
 mcRootData/cmt
 
