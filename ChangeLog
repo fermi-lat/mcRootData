@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: burnett  Fri Feb 21 14:48:17 PST 2003
+mcRootData/src
+
+Modified Files:
+	McParticle.cxx 
+Log Message:
+fix unsigned
+    *
+------------------------------------------------------------
 User: heather  Wed Feb  5 14:32:35 PST 2003
 mcRootData/src/test
 
