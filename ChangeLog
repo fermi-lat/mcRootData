@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: burnett  Thu May  2 12:03:43 PDT 2002
+mcRootData/src
+
+Modified Files:
+	McPositionHit.cxx 
+Log Message:
+fix coding error
+    *
+------------------------------------------------------------
 User: heather  Wed May  1 16:31:27 PDT 2002
 mcRootData/src/test
 
