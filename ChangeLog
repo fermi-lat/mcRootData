@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Fri Jun 22 07:16:12 PDT 2001
+mcRootData/fragments mcrootdata_dorootcint_header
+
+Added Files:
+	mcrootdata_dorootcint_header 
+Log Message:
+New file to automate generation of Cint files on unix
+    *
+------------------------------------------------------------
 User: heather  Fri Jun 22 07:15:38 PDT 2001
 mcRootData/fragments - New directory
 
