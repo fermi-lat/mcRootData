@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: burnett  Mon Jul 21 05:40:29 PDT 2003
+mcRootData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+test program constructor call needed a time
+    *
+------------------------------------------------------------
 User: burnett  Mon Jul 21 05:40:28 PDT 2003
 mcRootData/cmt
 
