@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Fri Nov  9 05:07:21 PST 2001
+mcRootData/cmt
+
+Modified Files:
+      Tag: balloon
+	requirements 
+Log Message:
+update to use package_headers pattern
+    *
+------------------------------------------------------------
 User: igable  Fri Aug 24 16:01:27 PDT 2001
 mcRootData/doc mcCheck.c
 
