@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon Jul  8 14:45:44 PDT 2002
+mcRootData/src/test
+
+Modified Files:
+	leaktest.cxx testMcClasses.cxx 
+Log Message:
+update tests for updated McPositionHit 
+    *
+------------------------------------------------------------
 User: heather  Mon Jul  8 14:44:22 PDT 2002
 mcRootData/src
 
