@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Fri Apr  5 13:57:11 PST 2002
+mcRootData/src
+
+Added Files:
+	McIntegratingHit.cxx McEvent.cxx 
+Log Message:
+new version of MC classes that mirror the new TDS classes
+    *
+------------------------------------------------------------
 User: heather  Fri Apr  5 13:55:50 PST 2002
 mcRootData/mcRootData
 
