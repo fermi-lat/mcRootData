@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Thu Aug  8 08:54:48 PDT 2002
+mcRootData/src
+
+Modified Files:
+	McIntegratingHit.cxx 
+Log Message:
+allow one to set the energy items ..without going through the
+addEnergyItem method
+    *
+------------------------------------------------------------
 User: heather  Thu Aug  8 08:54:18 PDT 2002
 mcRootData/mcRootData
 
