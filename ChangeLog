@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: dflath  Fri Jun 15 14:18:55 PDT 2001
+mcRootData/src McEvent.cxx
+
+Added Files:
+	McEvent.cxx 
+Log Message:
+
+Finalized version for use with ROOTWriter to extract MC data from IRF
+    *
+------------------------------------------------------------
 User: dflath  Fri Jun 15 11:57:44 PDT 2001
 mcRootData/src MCParticle.cxx MCVertex.cxx
 
