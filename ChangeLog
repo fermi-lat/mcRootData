@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon May 13 08:06:15 PDT 2002
+mcRootData/src/test
+
+Modified Files:
+	testMcClasses.cxx 
+Log Message:
+fix gcc warnings
+    *
+------------------------------------------------------------
 User: heather  Mon May 13 08:05:43 PDT 2002
 mcRootData/src
 
