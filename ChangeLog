@@ -1,4 +1,16 @@
 ------------------------------------------------------------
+User: als  Thu May  2 15:43:22 PDT 2002
+mcRootData/fragments
+
+Modified Files:
+	mcrootdata_dorootcint_header 
+Log Message:
+add setting of LD_LIBRARY_PATH inmcrootdata_dorootcint_header fragment
+so users don't have to have it pointing at ROOT before compile
+  
+
+    *
+------------------------------------------------------------
 User: als  Thu May  2 14:45:44 PDT 2002
 mcRootData/cmt
 
