@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: igable  Thu Aug 23 15:26:30 PDT 2001
+mcRootData/src RMcParticle.cxx RMcVertex.cxx
+
+Modified Files:
+	RMcParticle.cxx RMcVertex.cxx 
+Log Message:
+SYmbols now load in ROOT. Thanks to heather for saving me from insanity.
+
+    *
+------------------------------------------------------------
+User: igable  Thu Aug 23 15:26:30 PDT 2001
 mcRootData/mcRootData RMcParticle.h RMcVertex.h mcRootDataCint.cxx
 
 Modified Files:
