@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue May 14 09:56:28 PDT 2002
+mcRootData/src/test
+
+Modified Files:
+	testMcClasses.cxx leaktest.cxx 
+Log Message:
+update tests for initialposition in McParticle
+    *
+------------------------------------------------------------
 User: heather  Tue May 14 09:55:24 PDT 2002
 mcRootData/mcRootData
 
