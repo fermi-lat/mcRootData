@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Thu May  9 07:34:25 PDT 2002
+mcRootData/mcRootData
+
+Modified Files:
+	McIntegratingHit.h 
+Log Message:
+provide access to the McParticle, energy pairs by adding new
+methods:  mapSize, mapNext, mapReset
+    *
+------------------------------------------------------------
 User: heather  Thu May  9 07:32:33 PDT 2002
 mcRootData/cmt
 
