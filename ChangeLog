@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Aug 13 15:31:09 PDT 2003
+mcRootData/src/test
+
+Modified Files:
+	leaktest.cxx 
+Log Message:
+update test for new McEvent::init
+    *
+------------------------------------------------------------
 User: berthon  Thu Jul 31 06:03:12 PDT 2003
 mcRootData/src
 
