@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: berthon  Thu May 15 08:03:34 PDT 2003
+mcRootData/src
+
+Modified Files:
+	McEvent.cxx 
+Log Message:
+reduce buffer size in Clear method and apply clear in heaps only for m_positionHitCol
+
+    *
+------------------------------------------------------------
 User: berthon  Wed May 14 09:16:47 PDT 2003
 mcRootData/src
 
