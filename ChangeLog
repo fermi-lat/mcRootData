@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: igable  Fri Aug 24 15:56:13 PDT 2001
+mcRootData/doc release.notes
+
+Modified Files:
+	release.notes 
+Log Message:
+Fix several bugs that were causing problems with tree->Fill()
+
+
+    *
+------------------------------------------------------------
 User: igable  Fri Aug 24 15:54:55 PDT 2001
 mcRootData/mcRootData mainpage.h
 
