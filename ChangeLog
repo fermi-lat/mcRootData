@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: igable  Thu Aug 16 18:12:07 PDT 2001
+mcRootData/mcRootData RMcEvent.h RMcParticle.h RMcVertex.h mcRootDataCint.cxx mcRootDataCint.h
+
+Modified Files:
+	RMcEvent.h RMcParticle.h RMcVertex.h mcRootDataCint.cxx 
+	mcRootDataCint.h 
+Log Message:
+Changes to make the Root Mc classes more compatible with the TDS versions.
+
+    *
+------------------------------------------------------------
 User: igable  Thu Aug 16 18:10:38 PDT 2001
 mcRootData/doc release.notes
 
