@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: heather  Wed May  1 13:14:22 PDT 2002
+mcRootData/mcRootData
+
+Modified Files:
+	McIntegratingHit.h McParticle.h McPositionHit.h 
+Log Message:
+update doc and modify McIntegrating hit to store 2 arrays for
+McParticle* and energy map - produce a vector of pairs on the
+fly for clients
+    *
+------------------------------------------------------------
 User: heather  Wed May  1 13:06:23 PDT 2002
 mcRootData/cmt
 
