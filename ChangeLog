@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: burnett  Thu Jun 17 06:42:28 PDT 2004
+mcRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+refactor and document the pattern; will move tag
+    *
+------------------------------------------------------------
 User: heather  Wed Jun 16 23:04:28 PDT 2004
 mcRootData/mcRootData
 
