@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: berthon  Tue Jun  3 02:33:08 PDT 2003
+mcRootData/src
+
+Modified Files:
+	McEvent.cxx 
+Log Message:
+bufferise clearing of all TObjArrays
+
+    *
+------------------------------------------------------------
 User: berthon  Thu May 15 08:03:34 PDT 2003
 mcRootData/src
 
