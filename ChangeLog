@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: igable  Fri Aug 10 15:33:08 PDT 2001
+mcRootData/mcRootData McParticle.h McVertex.h McEvent.h
+
+Removed Files:
+	McParticle.h McVertex.h McEvent.h 
+Log Message:
+Renaming to R* to avoid conflicts with TDS versions.
+
+    *
+------------------------------------------------------------
 User: heather  Wed Jul 18 09:24:17 PDT 2001
 mcRootData/cmt requirements
 
