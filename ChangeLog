@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: dflath  Fri Jun 15 11:57:44 PDT 2001
+mcRootData/src MCParticle.cxx MCVertex.cxx
+
+Modified Files:
+	MCParticle.cxx MCVertex.cxx 
+Log Message:
+
+Concrete version integrated with ROOTWriter
+    *
+------------------------------------------------------------
 User: dflath  Fri Jun 15 11:57:43 PDT 2001
 mcRootData/mcRootData MCParticle.h MCVertex.h dorootcint.bat mcRootDataCint.cxx mcRootDataCint.h mcRootDataLinkDef.h
 
