@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Fri Apr 26 13:35:51 PDT 2002
+mcRootData/src
+
+Modified Files:
+	VolumeIdentifier.cxx McPositionHit.cxx McParticle.cxx 
+	McIntegratingHit.cxx McEvent.cxx 
+Log Message:
+add in Print routines, simplify the VolumeIdentifier
+    *
+------------------------------------------------------------
 User: heather  Fri Apr 26 13:34:27 PDT 2002
 mcRootData/src/test
 
