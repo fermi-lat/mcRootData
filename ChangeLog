@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: heather  Thu Jul 22 14:37:45 PDT 2004
+mcRootData/mcRootData
+
+Modified Files:
+	LinkDef.h McPositionHit.h McIntegratingHit.h 
+Removed Files:
+	VolumeIdentifier.h 
+Log Message:
+prepare to use VolId in commonRootData
+    *
+------------------------------------------------------------
 User: heather  Thu Jul 22 14:36:32 PDT 2004
 mcRootData/cmt
 
