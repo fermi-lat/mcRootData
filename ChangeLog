@@ -1,4 +1,17 @@
 ------------------------------------------------------------
+User: heather  Thu Mar  7 15:07:08 PST 2002
+mcRootData/cmt
+
+Modified Files:
+      Tag: balloon
+	requirements 
+Added Files:
+      Tag: balloon
+	cd.cmd dorootcint.bat dorootcint.csh dorootcint.sh 
+Log Message:
+update to automatically generate the rootcint files
+    *
+------------------------------------------------------------
 User: heather  Fri Nov  9 05:07:21 PST 2001
 mcRootData/cmt
 
