@@ -1,4 +1,16 @@
 ------------------------------------------------------------
+User: heather  Tue Jul 30 11:55:49 PDT 2002
+mcRootData/mcRootData
+
+Modified Files:
+	McIntegratingHit.h McParticle.h McPositionHit.h 
+Log Message:
+include global coordinates in McPositionHit, 
+add process string to McParticle,
+add minimal tree option to store energies of primary, e/e+ for
+McIntegratingHit
+    *
+------------------------------------------------------------
 User: heather  Tue Jul 30 11:52:33 PDT 2002
 mcRootData/doc
 
