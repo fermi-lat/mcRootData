@@ -37,10 +37,8 @@ macro mcRootData_shlibflags " -L${ROOT_PATH}/lib -lPhysics -lMatrix " \
       VisualC            " ${use_linkopts} "
 
 
-# I think this is still ok?
+apply_pattern package_headers
+
 library  mcRootData *.cxx \
      ../mcRootData/mcRootDataCint.cxx\
-     ../mcRootData/mcRootDataCint.h\
-     ../mcRootData/McVertex.h\
-     ../mcRootData/McParticle.h\
-     ../mcRootData/McEvent.h
+     ${mcRootData_headers}
