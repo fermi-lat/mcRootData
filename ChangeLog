@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: burnett  Wed Jun 16 21:51:51 PDT 2004
+mcRootData/cmt
+
+Modified Files:
+	cleanup.bat requirements 
+Log Message:
+use RootPolicy pattern
+    *
+------------------------------------------------------------
 User: heather  Mon Jun 14 22:35:26 PDT 2004
 mcRootData/cmt
 
