@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu May  9 08:13:02 PDT 2002
+mcRootData/src/test
+
+Modified Files:
+	leaktest.cxx 
+Log Message:
+update leak test for linux library loading option
+    *
+------------------------------------------------------------
 User: heather  Thu May  9 07:43:58 PDT 2002
 mcRootData/doc
 
