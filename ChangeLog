@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Jan 14 10:28:33 PST 2004
+mcRootData/mcRootData
+
+Modified Files:
+	McIntegratingHit.h 
+Log Message:
+remove std from std::vector data member in McIntegratingHit
+    *
+------------------------------------------------------------
 User: heather  Wed Jan 14 10:28:14 PST 2004
 mcRootData/doc
 
