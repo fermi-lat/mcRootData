@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon Oct 21 12:03:48 PDT 2002
+mcRootData/src
+
+Modified Files:
+	McParticle.cxx 
+Log Message:
+replace std::string with TString
+    *
+------------------------------------------------------------
 User: heather  Mon Oct 21 12:03:03 PDT 2002
 mcRootData/mcRootData
 
