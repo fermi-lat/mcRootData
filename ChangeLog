@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: berrie  Wed Feb  4 06:33:44 PST 2004
+mcRootData/mcRootData
+
+Modified Files:
+	McPositionHit.h 
+Log Message:
+add setter methods for particle and origin particle in McPositionHit
+    *
+------------------------------------------------------------
 User: heather  Fri Jan 16 12:17:03 PST 2004
 mcRootData/mcRootData
 
