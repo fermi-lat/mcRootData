@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: igable  Fri Aug 10 15:41:26 PDT 2001
+mcRootData/mcRootData dorootcint.bat mcRootDataCint.cxx mcRootDataCint.h mcRootDataLinkDef.h
+
+Modified Files:
+	dorootcint.bat mcRootDataCint.cxx mcRootDataCint.h 
+	mcRootDataLinkDef.h 
+Log Message:
+Change to rename the classes to avoid conflict with the TDS classes
+
+    *
+------------------------------------------------------------
 User: igable  Fri Aug 10 15:41:25 PDT 2001
 mcRootData/cmt requirements
 
