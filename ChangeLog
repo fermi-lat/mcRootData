@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon Jul  8 14:43:59 PDT 2002
+mcRootData/mcRootData
+
+Modified Files:
+	McPositionHit.h 
+Log Message:
+remove McParticle* - using particle id instead
+    *
+------------------------------------------------------------
 User: heather  Mon Jul  8 14:36:02 PDT 2002
 mcRootData/doc
 
