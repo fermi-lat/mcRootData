@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Thu Mar  7 15:07:39 PST 2002
+mcRootData/mcRootData
+
+Removed Files:
+      Tag: balloon
+	dorootcint.bat mcRootDataCint.cxx mcRootDataCint.h 
+Log Message:
+removing rootcint files that will now be automatically generated
+    *
+------------------------------------------------------------
 User: heather  Thu Mar  7 15:07:08 PST 2002
 mcRootData/cmt
 
