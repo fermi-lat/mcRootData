@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon Sep 23 12:21:35 PDT 2002
+mcRootData/mcRootData
+
+Modified Files:
+	McEvent.h 
+Log Message:
+make static arrays transient
+    *
+------------------------------------------------------------
 User: heather  Mon Sep 23 12:20:52 PDT 2002
 mcRootData/cmt
 
