@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: burnett  Sun Jul 20 08:23:05 PDT 2003
+mcRootData/src
+
+Modified Files:
+	McEvent.cxx 
+Log Message:
+TimeStamp (well , Double_t) field added to McEvent
+    *
+------------------------------------------------------------
+User: burnett  Sun Jul 20 08:23:05 PDT 2003
 mcRootData/mcRootData
 
 Modified Files:
