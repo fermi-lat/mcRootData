@@ -1,4 +1,16 @@
 ------------------------------------------------------------
+User: heather  Fri Apr  5 13:55:50 PST 2002
+mcRootData/mcRootData
+
+Modified Files:
+	mcRootDataLinkDef.h mainpage.h 
+Added Files:
+	VolumeIdentifier.h McPositionHit.h McParticle.h 
+	McIntegratingHit.h McEvent.h 
+Log Message:
+new version of MC classes that mirror the new TDS classes
+    *
+------------------------------------------------------------
 User: heather  Fri Apr  5 13:54:53 PST 2002
 mcRootData/cmt
 
