@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: igable  Fri Aug 10 15:38:18 PDT 2001
+mcRootData/src McEvent.cxx MCParticle.cxx MCVertex.cxx
+
+Removed Files:
+	McEvent.cxx MCParticle.cxx MCVertex.cxx 
+Log Message:
+rename
+
+    *
+------------------------------------------------------------
 User: igable  Fri Aug 10 15:35:17 PDT 2001
 mcRootData/mcRootData RMcEvent.h RMcParticle.h RMcVertex.h
 
