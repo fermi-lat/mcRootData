@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Sat Aug 30 10:53:56 PDT 2003
+mcRootData/src
+
+Modified Files:
+	McEvent.cxx 
+Log Message:
+increase limit on McParticles
+    *
+------------------------------------------------------------
 User: heather  Sat Aug 30 10:51:43 PDT 2003
 mcRootData/cmt
 
