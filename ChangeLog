@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Fri Jun 22 07:20:25 PDT 2001
+mcRootData/mcRootData MCParticle.h MCVertex.h
+
+Removed Files:
+	MCParticle.h MCVertex.h 
+Log Message:
+renaming from MC to Mc for unix
+    *
+------------------------------------------------------------
 User: heather  Fri Jun 22 07:19:21 PDT 2001
 mcRootData/mcRootData McParticle.h McVertex.h
 
