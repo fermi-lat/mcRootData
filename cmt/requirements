@@ -1,5 +1,5 @@
 package mcRootData
-version v0r2p1
+version v0r2p3
 
 use GlastPolicy
 use ROOT
@@ -13,8 +13,11 @@ apply_pattern package_linkopts
 apply_pattern ld_library_path
 
 
-
 private
+
+# For Windows, use a setup script to run rootcint automatically
+# Still using document generator for UNIX
+setup_script dorootcint
 
 # Create the Root Cint classes
 macro root_headers "McVertex.h McParticle.h McEvent.h mcRootDataLinkDef.h"
