@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Sep 25 12:28:41 PDT 2002
+mcRootData/mcRootData
+
+Modified Files:
+	McEvent.h 
+Log Message:
+add sourceId and sequence
+    *
+------------------------------------------------------------
 User: heather  Wed Sep 25 12:26:22 PDT 2002
 mcRootData/doc
 
