@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: igable  Fri Aug 24 16:01:27 PDT 2001
+mcRootData/doc mcCheck.c
+
+Added Files:
+	mcCheck.c 
+Log Message:
+Small root macro to check on the contents of RMcEvent.
+
+
+    *
+------------------------------------------------------------
 User: igable  Fri Aug 24 15:56:14 PDT 2001
 mcRootData/src RMcEvent.cxx RMcParticle.cxx RMcVertex.cxx
 
