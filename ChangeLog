@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: burnett  Mon Jul 21 05:40:29 PDT 2003
+mcRootData/src/test
+
+Modified Files:
+	testMcClasses.cxx 
+Log Message:
+test program constructor call needed a time
+    *
+------------------------------------------------------------
+User: burnett  Mon Jul 21 05:40:29 PDT 2003
 mcRootData/doc
 
 Modified Files:
