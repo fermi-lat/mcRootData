@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Fri Jan 16 11:42:36 PST 2004
+mcRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+declare std::vector namespace for RH9
+    *
+------------------------------------------------------------
 User: heather  Wed Jan 14 10:28:33 PST 2004
 mcRootData/mcRootData
 
