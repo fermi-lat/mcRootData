@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: burnett  Thu Jun 17 14:35:12 PDT 2004
+mcRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+oops: restore ld_library_path; moving tag
+    *
+------------------------------------------------------------
 User: heather  Thu Jun 17 09:23:27 PDT 2004
 mcRootData/cmt
 
