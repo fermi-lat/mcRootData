@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon Jun 17 15:17:30 PDT 2002
+mcRootData/src
+
+Modified Files:
+	mainpage.h McPositionHit.cxx 
+Log Message:
+add McParticle Id
+    *
+------------------------------------------------------------
 User: heather  Mon Jun 17 15:17:10 PDT 2002
 mcRootData/mcRootData
 
