@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Jul 18 09:24:17 PDT 2001
+mcRootData/cmt requirements
+
+Modified Files:
+	requirements 
+Log Message:
+update use of ROOT to not explicitly specify the version
+    *
+------------------------------------------------------------
 TAG activity
 User: heather  Fri Jun 22 08:14:35 2001
 Tag name: v0r2
