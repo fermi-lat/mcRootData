@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon Oct 21 12:44:00 PDT 2002
+mcRootData/src/test
+
+Modified Files:
+	leaktest.cxx 
+Log Message:
+update test to write out process into McParticle
+    *
+------------------------------------------------------------
 User: heather  Mon Oct 21 12:03:48 PDT 2002
 mcRootData/src
 
