@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: burnett  Sun Jul 20 08:23:05 PDT 2003
+mcRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+TimeStamp (well , Double_t) field added to McEvent
+    *
+------------------------------------------------------------
 User: heather  Thu Jun 12 18:20:39 PDT 2003
 mcRootData/cmt
 
