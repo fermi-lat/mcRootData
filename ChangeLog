@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon May  6 09:27:57 PDT 2002
+mcRootData/src/test
+
+Modified Files:
+	testMcClasses.cxx 
+Log Message:
+properly check floating point values
+    *
+------------------------------------------------------------
 User: als  Thu May  2 15:43:22 PDT 2002
 mcRootData/fragments
 
