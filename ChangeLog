@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Fri Nov  1 11:44:21 PST 2002
+mcRootData/src
+
+Modified Files:
+	McParticle.cxx 
+Log Message:
+make getMother const
+    *
+------------------------------------------------------------
 User: heather  Fri Nov  1 11:43:46 PST 2002
 mcRootData/mcRootData
 
