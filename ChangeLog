@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: igable  Fri Aug 10 15:35:17 PDT 2001
+mcRootData/mcRootData RMcEvent.h RMcParticle.h RMcVertex.h
+
+Added Files:
+	RMcEvent.h RMcParticle.h RMcVertex.h 
+Log Message:
+Renaming the Mc classes toavoid conflict withTDS classes
+
+    *
+------------------------------------------------------------
 User: igable  Fri Aug 10 15:33:08 PDT 2001
 mcRootData/mcRootData McParticle.h McVertex.h McEvent.h
 
