@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu Jul 22 14:15:18 PDT 2004
+mcRootData/mcRootData
+
+Removed Files:
+	mcRootDataLinkDef.h 
+Log Message:
+renamed mcRootDataLinkDef.h to LinkDef.h
+    *
+------------------------------------------------------------
 User: burnett  Mon Jun 21 10:35:49 PDT 2004
 mcRootData/cmt
 
