@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: igable  Mon Aug 20 18:45:14 PDT 2001
+mcRootData/src RMcParticle.cxx RMcVertex.cxx
+
+Modified Files:
+	RMcParticle.cxx RMcVertex.cxx 
+Log Message:
+Finish implementing what I though I had already done.
+- implement functions in RMcparticle.cxx and RMcVertex.cxx
+
+    *
+------------------------------------------------------------
+User: igable  Mon Aug 20 18:45:14 PDT 2001
 mcRootData/mcRootData RMcParticle.h RMcVertex.h mcRootDataCint.cxx
 
 Modified Files:
