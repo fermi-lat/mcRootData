@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Tue Apr  2 11:32:33 PST 2002
+mcRootData/src
+
+Removed Files:
+	RMcVertex.cxx RMcParticle.cxx RMcEvent.cxx 
+Log Message:
+removing old classes named with preceding "R", we are now
+using namespaces in the Gaudi TDS classes
+    *
+------------------------------------------------------------
 User: heather  Tue Apr  2 11:31:59 PST 2002
 mcRootData/mcRootData
 
