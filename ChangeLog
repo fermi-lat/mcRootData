@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon Aug 26 13:32:54 PDT 2002
+mcRootData/cmt
+
+Removed Files:
+	cd.cmd dorootcint.bat dorootcint.csh dorootcint.sh 
+Log Message:
+remove old method of producing rootcint files
+    *
+------------------------------------------------------------
 User: heather  Mon Aug 26 13:26:36 PDT 2002
 mcRootData/doc
 
