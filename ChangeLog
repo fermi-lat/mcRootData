@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu Jul 22 14:40:42 PDT 2004
+mcRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+move VolId to commonRootData
+    *
+------------------------------------------------------------
 User: heather  Thu Jul 22 14:40:17 PDT 2004
 mcRootData/doc
 
