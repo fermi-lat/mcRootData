@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: berthon  Wed Jun  4 10:12:28 PDT 2003
+mcRootData/src
+
+Modified Files:
+	McEvent.cxx 
+Log Message:
+improved bufferisation in Clear
+
+    *
+------------------------------------------------------------
 User: berthon  Tue Jun  3 02:33:08 PDT 2003
 mcRootData/src
 
