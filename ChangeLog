@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon Sep 23 12:22:26 PDT 2002
+mcRootData/src
+
+Modified Files:
+	McEvent.cxx 
+Log Message:
+clean up dtor a little
+    *
+------------------------------------------------------------
 User: heather  Mon Sep 23 12:21:35 PDT 2002
 mcRootData/mcRootData
 
