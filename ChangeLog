@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Apr 24 12:44:14 PDT 2002
+mcRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+fix wildcard usage
+    *
+------------------------------------------------------------
 User: heather  Tue Apr 23 07:34:22 PDT 2002
 mcRootData/mcRootData
 
