@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Fri Apr  5 13:54:53 PST 2002
+mcRootData/cmt
+
+Added Files:
+	dorootcint.sh dorootcint.csh dorootcint.bat cd.cmd 
+Log Message:
+new scheme to automatically run rootcint
+    *
+------------------------------------------------------------
 User: heather  Fri Apr  5 13:54:00 PST 2002
 mcRootData/cmt
 
