@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Feb  5 14:32:35 PST 2003
+mcRootData/src/test
+
+Modified Files:
+	testMcClasses.cxx 
+Log Message:
+update test since we can store the energy map in McIntegratingHit
+    *
+------------------------------------------------------------
 User: heather  Wed Feb  5 14:31:25 PST 2003
 mcRootData/cmt
 
