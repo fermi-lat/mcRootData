@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: igable  Fri Aug 24 15:56:14 PDT 2001
+mcRootData/src RMcEvent.cxx RMcParticle.cxx RMcVertex.cxx
+
+Modified Files:
+	RMcEvent.cxx RMcParticle.cxx RMcVertex.cxx 
+Log Message:
+Fix several bugs that were causing problems with tree->Fill()
+
+
+    *
+------------------------------------------------------------
 User: igable  Fri Aug 24 15:56:13 PDT 2001
 mcRootData/mcRootData RMcEvent.h RMcVertex.h
 
