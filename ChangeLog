@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: burnett  Mon May 13 15:25:44 PDT 2002
+mcRootData/cmt
+
+Modified Files:
+	dorootcint.bat 
+Log Message:
+have it test for the existence of output files, not replace them
+    *
+------------------------------------------------------------
 User: heather  Mon May 13 08:41:49 PDT 2002
 mcRootData/src
 
