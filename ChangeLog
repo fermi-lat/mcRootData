@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: burnett  Wed Jun 16 21:51:51 PDT 2004
+mcRootData/mcRootData
+
+Added Files:
+	LinkDef.h 
+Log Message:
+use RootPolicy pattern
+    *
+------------------------------------------------------------
+User: burnett  Wed Jun 16 21:51:51 PDT 2004
 mcRootData/cmt
 
 Modified Files:
