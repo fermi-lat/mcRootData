@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: burnett  Tue Aug 10 10:06:31 PDT 2004
+mcRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+moved RootPolicy to GlastPolicy/RootcintPolicy -- tagging p1
+    *
+------------------------------------------------------------
 User: heather  Thu Jul 22 14:40:42 PDT 2004
 mcRootData/cmt
 
