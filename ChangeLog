@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue May 14 09:57:00 PDT 2002
+mcRootData/src
+
+Modified Files:
+	McParticle.cxx 
+Log Message:
+add initialPosition
+    *
+------------------------------------------------------------
 User: heather  Tue May 14 09:56:28 PDT 2002
 mcRootData/src/test
 
