@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Apr 23 07:34:22 PDT 2002
+mcRootData/mcRootData
+
+Modified Files:
+	VolumeIdentifier.h McPositionHit.h McIntegratingHit.h 
+Log Message:
+copy ctor for VolumeId and get rid of memory leaks
+    *
+------------------------------------------------------------
 User: heather  Tue Apr 23 07:33:41 PDT 2002
 mcRootData/src
 
