@@ -3,6 +3,14 @@ TAG activity
 User: heather  Fri Jun 22 07:23:05 2001
 Tag name: v0r2
 Tag operation: mov
+Repository: /nfs/slac/g/glast/ground/cvs/mcRootData/src
+File(s) and revision(s): 
+    *
+------------------------------------------------------------
+TAG activity
+User: heather  Fri Jun 22 07:23:05 2001
+Tag name: v0r2
+Tag operation: mov
 Repository: /nfs/slac/g/glast/ground/cvs/mcRootData/mcRootData
 File(s) and revision(s): McParticle.h
     *
