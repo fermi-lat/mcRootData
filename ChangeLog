@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Tue Sep 24 11:26:29 PDT 2002
+mcRootData/mcRootData
+
+Modified Files:
+	VolumeIdentifier.h McPositionHit.h McIntegratingHit.h 
+	McEvent.h 
+Log Message:
+update doc
+    *
+------------------------------------------------------------
 User: heather  Tue Sep 24 11:22:35 PDT 2002
 mcRootData/doc
 
