@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: heather  Mon Apr 22 10:14:52 PDT 2002
+mcRootData/src
+
+Modified Files:
+	VolumeIdentifier.cxx McPositionHit.cxx McParticle.cxx 
+	McIntegratingHit.cxx McEvent.cxx 
+Log Message:
+fix methods to adhere to mods in TDS versions and
+update comments
+    *
+------------------------------------------------------------
 User: heather  Mon Apr 22 10:13:15 PDT 2002
 mcRootData/mcRootData
 
