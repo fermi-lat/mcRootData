@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Sep 24 10:00:21 PDT 2002
+mcRootData/mcRootData
+
+Modified Files:
+	McEvent.h 
+Log Message:
+use //-> directive
+    *
+------------------------------------------------------------
 User: heather  Tue Sep 24 09:59:48 PDT 2002
 mcRootData/doc
 
