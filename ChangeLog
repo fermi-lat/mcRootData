@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Jul 30 11:57:40 PDT 2002
+mcRootData/src/test
+
+Modified Files:
+	leaktest.cxx testMcClasses.cxx 
+Log Message:
+update tests for new versions of the classes
+    *
+------------------------------------------------------------
 User: heather  Tue Jul 30 11:57:03 PDT 2002
 mcRootData/src
 
