@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: berthon  Fri Feb 20 05:01:55 PST 2004
+mcRootData/mcRootData
+
+Modified Files:
+	McEvent.h 
+Log Message:
+add clear method for static arrays
+    *
+------------------------------------------------------------
 User: berrie  Wed Feb  4 06:33:44 PST 2004
 mcRootData/mcRootData
 
