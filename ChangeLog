@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Fri Jun 22 07:19:21 PDT 2001
+mcRootData/mcRootData McParticle.h McVertex.h
+
+Added Files:
+	McParticle.h McVertex.h 
+Log Message:
+renaming from MC to Mc
+    *
+------------------------------------------------------------
 User: heather  Fri Jun 22 07:16:12 PDT 2001
 mcRootData/fragments mcrootdata_dorootcint_header
 
