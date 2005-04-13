@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Apr 13 12:03:48 PDT 2005
+mcRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+use commonRootData namespace throught idents
+    *
+------------------------------------------------------------
 User: heather  Wed Apr 13 12:03:37 PDT 2005
 mcRootData/doc
 
