@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Apr 13 12:04:00 PDT 2005
+mcRootData/mcRootData
+
+Modified Files:
+	McIntegratingHit.h McPositionHit.h 
+Log Message:
+use commonRootData namespace throught idents
+    *
+------------------------------------------------------------
 User: heather  Wed Apr 13 12:03:48 PDT 2005
 mcRootData/cmt
 
