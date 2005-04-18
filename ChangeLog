@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Sun Apr 17 23:04:29 PDT 2005
+mcRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+backout commonRootData namespace
+    *
+------------------------------------------------------------
 TAG
 Tag name: v2r15, operation: add
 Package: mcRootData
