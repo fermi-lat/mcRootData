@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Sun Apr 17 23:05:33 PDT 2005
+mcRootData/src
+
+Modified Files:
+	McIntegratingHit.cxx McPositionHit.cxx 
+Log Message:
+backout commonRootData namespace
+    *
+------------------------------------------------------------
 User: heather  Sun Apr 17 23:05:13 PDT 2005
 mcRootData/mcRootData
 
