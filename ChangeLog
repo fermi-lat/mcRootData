@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Sun Apr 17 23:05:33 PDT 2005
+mcRootData/src/test
+
+Modified Files:
+	leaktest.cxx testMcClasses.cxx 
+Log Message:
+backout commonRootData namespace
+    *
+------------------------------------------------------------
+User: heather  Sun Apr 17 23:05:33 PDT 2005
 mcRootData/src
 
 Modified Files:
