@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: usher  Thu May 26 13:42:39 PDT 2005
+mcRootData/mcRootData
+
+Modified Files:
+	McPositionHit.h 
+Log Message:
+McPositionHit now keeps particle 4 momentum at each hit instead of just energy
+    *
+------------------------------------------------------------
 TAG
 Tag name: v2r16, operation: add
 Package: mcRootData
