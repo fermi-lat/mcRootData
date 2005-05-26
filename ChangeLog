@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: usher  Thu May 26 13:42:40 PDT 2005
+mcRootData/src/test
+
+Modified Files:
+	testMcClasses.cxx 
+Log Message:
+McPositionHit now keeps particle 4 momentum at each hit instead of just energy
+    *
+------------------------------------------------------------
 User: usher  Thu May 26 13:42:39 PDT 2005
 mcRootData/src
 
