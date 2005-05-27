@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Fri May 27 16:26:06 PDT 2005
+mcRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+use new RootcintPolicy
+    *
+------------------------------------------------------------
 User: usher  Thu May 26 13:42:40 PDT 2005
 mcRootData/src/test
 
