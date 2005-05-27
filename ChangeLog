@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: heather  Fri May 27 16:35:02 PDT 2005
+mcRootData/cmt
+
+Modified Files:
+      Tag: GlastRelease-v6r8
+	requirements 
+Log Message:
+use new RootcintPolicy
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-v6r8, operation: add
 Package: mcRootData
