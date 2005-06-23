@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: usher  Thu Jun 23 13:21:19 PDT 2005
+mcRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+Preparing to tag preliminary CalRecon release
+    *
+------------------------------------------------------------
 TAG
 Tag name: v2r16p0, operation: add
 Package: mcRootData
