@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: chamont  Thu Jul  7 05:34:19 PDT 2005
+mcRootData/mcRootData
+
+Modified Files:
+	McPositionHit.h 
+Log Message:
+move the random/fake and comparison code into McPositionHit, for reuse within RootConvert
+    *
+------------------------------------------------------------
 TAG
 Tag name: v2r17p1, operation: add
 Package: mcRootData
