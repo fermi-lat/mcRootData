@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: chamont  Thu Jul  7 08:35:25 PDT 2005
+mcRootData/src
+
+Modified Files:
+	McPositionHit.cxx 
+Log Message:
+Compare() is reserved by ROOT, replace with CompareInRange()
+    *
+------------------------------------------------------------
+User: chamont  Thu Jul  7 08:35:25 PDT 2005
 mcRootData/mcRootData
 
 Modified Files:
