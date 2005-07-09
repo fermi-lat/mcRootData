@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Fri Jul  8 23:55:49 PDT 2005
+mcRootData/mcRootData
+
+Modified Files:
+	McPositionHit.h 
+Log Message:
+attempt to use schema evolution
+    *
+------------------------------------------------------------
 User: chamont  Fri Jul  8 06:15:09 PDT 2005
 mcRootData/src/test
 
