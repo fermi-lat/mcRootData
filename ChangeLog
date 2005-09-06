@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: golpa  Tue Sep  6 11:07:38 PDT 2005
+mcRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+Use GlastPolicy. Tagging v2r17p1
+    *
+------------------------------------------------------------
 TAG
 Tag name: v2r18, operation: add
 Package: mcRootData
