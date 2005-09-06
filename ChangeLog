@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: golpa  Tue Sep  6 11:07:38 PDT 2005
+mcRootData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+Use GlastPolicy. Tagging v2r17p1
+    *
+------------------------------------------------------------
+User: golpa  Tue Sep  6 11:07:38 PDT 2005
 mcRootData/cmt
 
 Modified Files:
