@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: usher  Thu Sep 22 11:53:21 PDT 2005
+mcRootData
+
+Modified Files:
+	ChangeLog 
+Log Message:
+Add new McTrajectory root output class, update McEvent to accomodate this class and other updates to make it all work in mcRootData
+    *
+------------------------------------------------------------
 TAG
 Tag name: v2r18p1, operation: add
 Package: mcRootData
