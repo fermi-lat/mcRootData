@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu Sep 22 15:17:21 PDT 2005
+mcRootData/mcRootData
+
+Modified Files:
+	McEvent.h 
+Log Message:
+increment version of McEvent for new McTrajectory collection
+    *
+------------------------------------------------------------
 User: usher  Thu Sep 22 11:53:22 PDT 2005
 mcRootData/src
 
