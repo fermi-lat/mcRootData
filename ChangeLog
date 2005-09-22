@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: usher  Thu Sep 22 11:53:22 PDT 2005
+mcRootData/src
+
+Modified Files:
+	McEvent.cxx 
+Added Files:
+	McTrajectory.cxx 
+Log Message:
+Add new McTrajectory root output class, update McEvent to accomodate this class and other updates to make it all work in mcRootData
+    *
+------------------------------------------------------------
+User: usher  Thu Sep 22 11:53:22 PDT 2005
 mcRootData/mcRootData
 
 Modified Files:
