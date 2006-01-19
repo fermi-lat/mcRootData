@@ -1,4 +1,43 @@
 ------------------------------------------------------------
+TAG
+Tag name: v2r19p2, operation: add
+Package: mcRootData
+User: chamont  Thu Jan 19 11:17:54 2006
+Files:
+  mcRootData/.cvsignore  1.1.1.1
+  mcRootData/ChangeLog  1.303
+  mcRootData/cmt/.cvsignore  1.2
+  mcRootData/cmt/NMake  1.1.1.1
+  mcRootData/cmt/requirements  1.71
+  mcRootData/cmt/cleanup.bat  1.2
+  mcRootData/cmt/Makefile  1.1.1.1
+  mcRootData/doc/.cvsignore  1.1
+  mcRootData/doc/release.notes  1.51
+  mcRootData/doc/mcRootData.html  1.1
+  mcRootData/doc/Doxyfile  1.1
+  mcRootData/doc/images/mcTree.gif  1.3
+  mcRootData/doc/styles/site.css  1.1
+  mcRootData/mcRootData/McParticle.h  1.13
+  mcRootData/mcRootData/.cvsignore  1.1.1.1
+  mcRootData/mcRootData/McEvent.h  1.14
+  mcRootData/mcRootData/LinkDef.h  1.4
+  mcRootData/mcRootData/McPositionHit.h  1.19
+  mcRootData/mcRootData/McTrajectory.h  1.1
+  mcRootData/mcRootData/McIntegratingHit.h  1.15
+  mcRootData/src/.cvsignore  1.1.1.1
+  mcRootData/src/mainpage.h  1.8
+  mcRootData/src/McPositionHit.cxx  1.15
+  mcRootData/src/McParticle.cxx  1.9
+  mcRootData/src/McEvent.cxx  1.24
+  mcRootData/src/McIntegratingHit.cxx  1.10
+  mcRootData/src/McTrajectory.cxx  1.1
+  mcRootData/src/test/testMcClasses.cxx  1.21
+  mcRootData/src/test/.cvsignore  1.1
+  mcRootData/src/test/leaktest.cxx  1.13
+  mcRootData/src/test/.rootrc  1.1
+
+    *
+------------------------------------------------------------
 User: chamont  Thu Jan 19 11:17:37 PST 2006
 mcRootData/src/test
 
