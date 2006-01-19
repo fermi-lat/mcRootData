@@ -1,22 +1,4 @@
 ------------------------------------------------------------
-User: chamont  Wed Jan 18 19:08:29 PST 2006
-mcRootData/src
-
-Modified Files:
-	McPositionHit.cxx 
-Log Message:
-normalize Fake signature
-    *
-------------------------------------------------------------
-User: chamont  Wed Jan 18 19:08:29 PST 2006
-mcRootData/mcRootData
-
-Modified Files:
-	McPositionHit.h 
-Log Message:
-normalize Fake signature
-    *
-------------------------------------------------------------
 TAG
 Tag name: v2r19p0, operation: add
 Package: mcRootData
