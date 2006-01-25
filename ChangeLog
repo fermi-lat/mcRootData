@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Jan 24 22:19:20 PST 2006
+mcRootData/src
+
+Modified Files:
+	McEvent.cxx 
+Log Message:
+update McEvent::Clear to add ALL option
+    *
+------------------------------------------------------------
 User: heather  Tue Jan 24 22:19:03 PST 2006
 mcRootData/doc
 
