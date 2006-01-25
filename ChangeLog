@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Jan 24 22:18:55 PST 2006
+mcRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+update McEvent::Clear to add ALL option
+    *
+------------------------------------------------------------
 TAG
 Tag name: v2r19p2, operation: add
 Package: mcRootData
