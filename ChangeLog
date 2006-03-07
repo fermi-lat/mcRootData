@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon Mar  6 22:25:59 PST 2006
+mcRootData/src
+
+Modified Files:
+	McEvent.cxx 
+Log Message:
+fix handling of ALL option for Clear
+    *
+------------------------------------------------------------
 User: heather  Mon Mar  6 22:25:39 PST 2006
 mcRootData/cmt
 
