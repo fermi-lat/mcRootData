@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Mar  7 11:31:43 PST 2006
+mcRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+make ALL option more robust and use Riostream
+    *
+------------------------------------------------------------
 User: heather  Tue Mar  7 11:31:21 PST 2006
 mcRootData/doc
 
