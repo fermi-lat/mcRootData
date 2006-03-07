@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Mon Mar  6 22:25:31 PST 2006
+mcRootData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+fix handling of ALL option for Clear
+    *
+------------------------------------------------------------
 TAG
 Tag name: v2r19p3, operation: add
 Package: mcRootData
