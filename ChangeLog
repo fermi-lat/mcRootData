@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: chamont  Wed May 24 08:29:39 PDT 2006
+mcRootData/mcRootData
+
+Modified Files:
+      Tag: DC_v9r3
+	McParticle.h McPositionHit.h 
+Log Message:
+review Fake/Compare of PositionHit, add ones to Particle
+    *
+------------------------------------------------------------
 TAG
 Tag name: v2r19p5, operation: add
 Package: mcRootData
