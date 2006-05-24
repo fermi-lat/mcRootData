@@ -59,64 +59,13 @@ int checkMcEvent(const McEvent* mcEvt, UInt_t ievent) {
 int checkMcParticle(McParticle* mcPart, Int_t ipart, UInt_t ievent) {
     // Purpose and Method: Check the contents of the McParticle read in from 
     //   the ROOT file
-    Float_t f = Float_t(ipart);
-    Float_t fr = f*randNum;
-    
-    if (mcPart->getParticleId() != ipart) {
-        std::cout << "McParticle Id does not match!!" << std::endl;
-        return -1;
-    }
-    if (mcPart->getStatusFlags() != 0) {
-        std::cout << "McParticle flags do not match!!" << std::endl;
-        return -1;
-    }
-    TLorentzVector initMom = mcPart->getInitialFourMomentum();
-    if ( !floatInRange(initMom.X(), f) || !floatInRange(initMom.Y(), f) || 
-        !floatInRange(initMom.Z(), f) || !floatInRange(initMom.T(), f) ) {
-        std::cout << "McParticle initial momentum does not match" << std::endl;
-        return -1;
-    }
-    TLorentzVector finalMom = mcPart->getFinalFourMomentum();
-    if ( !floatInRange(finalMom.X(), fr+ievent) || 
-         !floatInRange(finalMom.Y(), fr+ievent) || 
-        !floatInRange(finalMom.Z(), fr+ievent) || 
-        !floatInRange(finalMom.T(), fr+ievent) ) {
-        std::cout << "McParticle final momentum: (" << finalMom.X() << ","
-            << finalMom.Y() << "," << finalMom.Z() << "," << finalMom.T() << ")" << std::endl;
-        return -1;
-    }
+    McParticle particleRef ;
+    particleRef.Fake(ievent,ipart,randNum) ;
+    if (mcPart->CompareInRange(particleRef))
+      return 0 ;
+    else
+      return -1 ;
 
-    TVector3 initPos = mcPart->getInitialPosition();
-    if ( !floatInRange(initPos.X(), randNum) ||
-         !floatInRange(initPos.Y(), 2.0*fr) ||
-         !floatInRange(initPos.Z(), 4.0*fr) ) {
-        std::cout << "McParticle initial position does not match" << std::endl;
-        return -1;
-    }
-
-    TVector3 finalPos = mcPart->getFinalPosition();
-    if ( !floatInRange(finalPos.X(), fr) || 
-         !floatInRange(finalPos.Y(), fr) || 
-        !floatInRange(finalPos.Z(), fr) ) {
-        std::cout << "McParticle final position does not match" << std::endl;
-        return -1;
-    }
-    
-    if (mcPart->getMother()) {
-        if (mcPart->getMother()->GetUniqueID() != mcPart->GetUniqueID()) {
-            std::cout << "McParticle mother is not itself!" << std::endl;
-            return -1;
-        }
-    } else {
-        std::cout << "Cannot check TRefs using ROOT 3.02.07" << std::endl;
-    }
-
-    if (mcPart->getProcess() != "") {
-        std::cout << "Process String is wrong: " << mcPart->getProcess() << std::endl;
-        return -1;
-    }
-    
-    return 0;
 }
 
 int checkMcPositionHit(const McPositionHit* mcPosHit, Int_t ipart, UInt_t ievent) {
@@ -129,81 +78,9 @@ int checkMcPositionHit(const McPositionHit* mcPosHit, Int_t ipart, UInt_t ievent
     else
       return -1 ;
     
-//    Float_t f = Float_t(ipart);
-//    Float_t fr = f*randNum;
-//    if (mcPosHit->getMcParticleId() != 7) {
-//        std::cout << "MC Particle Id is wrong: " << mcPosHit->getMcParticleId() << std::endl;
-//        return -1;
-//    }
-//
-//    if (mcPosHit->getOriginMcParticleId() != -13) {
-//        std::cout << "MC Origin Id is wrong: " << mcPosHit->getOriginMcParticleId() << std::endl;
-//        return -1;
-//    }
-//
-//    VolumeIdentifier id = mcPosHit->getVolumeId();
-//    std::cout << "McPosHit Id = " << id.name() << std::endl;
-//    if ( (id.getBits0to31() != 0) || (id.getBits32to63() != 16777216) || (id.size() != 1) ) {
-//        std::cout << "McPosHit VolId is incorrect" << std::endl;
-//        return -1;
-//    }
-//    
-//    TVector3 entry = mcPosHit->getEntryPosition();
-//    if  ( !floatInRange(entry.X(), 1.) || 
-//          !floatInRange(entry.Y(), 1.) ||
-//          !floatInRange(entry.Z(), 1.) ) {
-//        std::cout << "McPosHit entry is (" << entry.X() << "," << entry.Y() << ","
-//            << entry.Z() << ")" << std::endl;
-//        return -1;
-//    }
-//    
-//    TVector3 exit = mcPosHit->getExitPosition();
-//    if ( !floatInRange(exit.X(), fr) || !floatInRange(exit.Y(), fr) || 
-//         !floatInRange(exit.Z(), fr) ) {
-//        std::cout << "McPosHit exit is (" << exit.X() << "," << exit.Y() 
-//            << "," << exit.Z() << std::endl;
-//        return -1;
-//    }
-//
-//    TVector3 gEntry = mcPosHit->getGlobalEntryPosition();
-//    if ( !floatInRange(gEntry.X(), 3.) || !floatInRange(gEntry.Y(), 3.) || 
-//         !floatInRange(gEntry.Z(), 3.) ) {
-//        std::cout << "McPosHit Global Entry is (" << gEntry.X() << "," << gEntry.Y() 
-//            << "," << gEntry.Z() << std::endl;
-//        return -1;
-//    }
-//
-//    TVector3 gExit = mcPosHit->getGlobalExitPosition();
-//    if ( !floatInRange(gExit.X(), fr*2.) || !floatInRange(gExit.Y(), fr*2.) || 
-//         !floatInRange(gExit.Z(), fr*2.) ) {
-//        std::cout << "McPosHit Global exit is (" << gExit.X() << "," << gExit.Y() 
-//            << "," << gExit.Z() << std::endl;
-//        return -1;
-//    }
-//    
-//    if (!floatInRange(mcPosHit->getDepositedEnergy(), randNum)) {
-//        std::cout << "Error:  McPosHit dep Energy: " << mcPosHit->getDepositedEnergy() 
-//            << std::endl;
-//        return -1;
-//    }
-//    
-//    if (!floatInRange(mcPosHit->getParticleEnergy(), randNum*0.1)) {
-//        std::cout << "Error: McPosHit particle Energy = " << mcPosHit->getParticleEnergy() 
-//            << std::endl;
-//        
-//        return -1;
-//    }
-//    
-//    if (!floatInRange(mcPosHit->getTimeOfFlight(), randNum*0.4)) {
-//        std::cout << "Error: McPosHit TOF: " << mcPosHit->getTimeOfFlight() << std::endl;
-//        return -1;
-//    }
-//    
-//    return 0;
 }
 
-int checkMcIntegratingHit(McIntegratingHit* mcIntHit, UInt_t ipart, 
-                          UInt_t ievent) {
+int checkMcIntegratingHit(McIntegratingHit* mcIntHit, UInt_t, UInt_t) {
     // Purpose and Method: Check the contents of the McIntegratingHit read in 
     //    from the ROOT file
     VolumeIdentifier id = mcIntHit->getVolumeId();
@@ -328,16 +205,13 @@ int write(char* fileName, UInt_t numEvents) {
         ev->initialize(ievent, runNum, sourceId, sequence, ievent*1.0);
         
         for (ipart = 0; ipart < numParticles; ipart ++) {
+            
+            // particle
             McParticle *mcPart = new McParticle();
-            Float_t f = Float_t(ipart);
-            Float_t fr = f*randNum;
-            TLorentzVector initMom(f, f, f, f);
-            TLorentzVector finalMom(fr+ievent, fr+ievent, fr+ievent, fr+ievent);
-            TVector3 initPos(randNum, f*2.0*randNum, f*4.0*randNum);
-            TVector3 finalPos(f*randNum, f*randNum, f*randNum);
-            mcPart->initialize(mcPart, ipart, 0, initMom, finalMom, initPos, finalPos);
+            mcPart->Fake(ievent,ipart,randNum) ;
             ev->addMcParticle(mcPart);
             
+            // position hit
             McPositionHit *posHit = new McPositionHit();
             posHit->Fake(ievent,ipart,randNum) ;
             ev->addMcPositionHit(posHit);
