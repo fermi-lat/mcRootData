@@ -20,7 +20,7 @@ void McIntegratingHit::initialize(const VolumeIdentifier& id) {
 }
 
 
-void McIntegratingHit::Clear(Option_t *option)
+void McIntegratingHit::Clear( Option_t * )
 {
     m_mcPartArr.Clear();
     m_energyPtrArr.clear();
@@ -71,7 +71,7 @@ const McParticle* McIntegratingHit::itemizedEnergyNext(Double_t &energy) {
     //   The transient data member, m_mapEntry, is used to access a specific
     //   pair.  If we have reached the end of the map, then a null McParticle*
     //   is returned.
-    if ( m_mapPtr < m_mcPartArr.GetEntries() ) {
+    if ( m_mapPtr < (UInt_t)m_mcPartArr.GetEntries() ) {
         energy = m_energyPtrArr[m_mapPtr];
         return (McParticle*) m_mcPartArr.At(m_mapPtr++);
     }
