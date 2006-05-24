@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: chamont  Wed May 24 08:29:40 PDT 2006
+mcRootData/src/test
+
+Modified Files:
+      Tag: DC_v9r3
+	testMcClasses.cxx 
+Log Message:
+review Fake/Compare of PositionHit, add ones to Particle
+    *
+------------------------------------------------------------
 User: chamont  Wed May 24 08:29:39 PDT 2006
 mcRootData/src
 
