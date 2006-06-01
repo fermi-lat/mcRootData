@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: chamont  Thu Jun  1 08:00:02 PDT 2006
+mcRootData/src
+
+Modified Files:
+	McEvent.cxx McIntegratingHit.cxx McParticle.cxx 
+	McPositionHit.cxx McTrajectory.cxx 
+Log Message:
+review unit tests
+    *
+------------------------------------------------------------
 User: chamont  Thu Jun  1 08:00:01 PDT 2006
 mcRootData/mcRootData
 
