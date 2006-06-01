@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: chamont  Thu Jun  1 07:32:42 PDT 2006
+mcRootData/mcRootData
+
+Modified Files:
+      Tag: DC_v9r3
+	McEvent.h McIntegratingHit.h McTrajectory.h 
+Log Message:
+end of unit tests review
+    *
+------------------------------------------------------------
 User: chamont  Wed May 24 08:29:40 PDT 2006
 mcRootData/src/test
 
