@@ -71,8 +71,8 @@ Bool_t McPositionHit::CompareInRange( const McPositionHit & ref, const std::stri
     result = COMPARE_IN_RANGE(OriginMcParticleId) && result ;
 
     result = COMPARE_IN_RANGE(VolumeId) && result ;
-    // method above does not check "redundant" name, this is why we add
-    // the additionnal test below.
+    // method above does not check name, which is probably redundat,
+    // but we wanted to add the additionnal test below.
     result = rootdatautil::CompareInRange(getVolumeId().name(),ref.getVolumeId().name(),"VolumeId Name") && result ;
     
     result = COMPARE_IN_RANGE(EntryPosition) && result ;
