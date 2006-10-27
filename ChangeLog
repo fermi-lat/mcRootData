@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Fri Oct 27 15:19:50 PDT 2006
+mcRootData/src
+
+Modified Files:
+	McEvent.cxx 
+Log Message:
+add sourcename
+    *
+------------------------------------------------------------
+User: heather  Fri Oct 27 15:19:50 PDT 2006
 mcRootData/mcRootData
 
 Modified Files:
