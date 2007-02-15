@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: usher  Thu Feb 15 12:34:28 PST 2007
+mcRootData/mcRootData
+
+Modified Files:
+	McTrajectory.h 
+Log Message:
+Fix compilation error on linux?
+    *
+------------------------------------------------------------
 User: usher  Thu Feb 15 11:25:24 PST 2007
 mcRootData/src
 
