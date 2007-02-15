@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: usher  Thu Feb 15 11:25:24 PST 2007
+mcRootData/mcRootData
+
+Modified Files:
+	LinkDef.h McIntegratingHit.h McParticle.h McPositionHit.h 
+	McTrajectory.h 
+Log Message:
+    *
+------------------------------------------------------------
 TAG
 Tag name: v2r20, operation: add
 Package: mcRootData
