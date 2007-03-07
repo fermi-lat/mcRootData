@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Mar  7 10:07:28 PST 2007
+mcRootData/src
+
+Modified Files:
+	McTrajectory.cxx 
+Log Message:
+update comparison for McTrajectoryPoint to init result to true
+    *
+------------------------------------------------------------
 User: heather  Wed Mar  7 09:53:18 PST 2007
 mcRootData/mcRootData
 
