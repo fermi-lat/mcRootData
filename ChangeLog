@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu Mar 15 10:00:14 PDT 2007
+mcRootData/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+fix objmgr cleanup
+    *
+------------------------------------------------------------
 TAG
 Tag name: v2r21, operation: add
 Package: mcRootData
