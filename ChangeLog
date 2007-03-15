@@ -1,4 +1,46 @@
 ------------------------------------------------------------
+TAG
+Tag name: v2r21p1, operation: add
+Package: mcRootData
+User: heather  Thu Mar 15 10:19:12 2007
+Files:
+  mcRootData/.cvsignore  1.1.1.1
+  mcRootData/ChangeLog  1.357
+  mcRootData/cmt/.cvsignore  1.2
+  mcRootData/cmt/NMake  1.1.1.1
+  mcRootData/cmt/requirements  1.78
+  mcRootData/cmt/Makefile  1.1.1.1
+  mcRootData/doc/.cvsignore  1.1
+  mcRootData/doc/release.notes  1.59
+  mcRootData/doc/mcRootData.html  1.1
+  mcRootData/doc/Doxyfile  1.1
+  mcRootData/doc/images/mcTree.gif  1.3
+  mcRootData/doc/styles/site.css  1.1
+  mcRootData/mcRootData/McParticle.h  1.15
+  mcRootData/mcRootData/.cvsignore  1.1.1.1
+  mcRootData/mcRootData/McEvent.h  1.18
+  mcRootData/mcRootData/McTkrStrip.h  1.1
+  mcRootData/mcRootData/LinkDef.h  1.6
+  mcRootData/mcRootData/McPositionHit.h  1.21
+  mcRootData/mcRootData/McTrajectory.h  1.5
+  mcRootData/mcRootData/McIntegratingHit.h  1.17
+  mcRootData/src/McObjectManager.h  1.2
+  mcRootData/src/McObjectManager.cxx  1.1
+  mcRootData/src/McTrajectory.cxx  1.7
+  mcRootData/src/McTkrStrip.cxx  1.1
+  mcRootData/src/.cvsignore  1.1.1.1
+  mcRootData/src/mainpage.h  1.8
+  mcRootData/src/McParticle.cxx  1.12
+  mcRootData/src/McPositionHit.cxx  1.18
+  mcRootData/src/McEvent.cxx  1.33
+  mcRootData/src/McIntegratingHit.cxx  1.14
+  mcRootData/src/test/testMcClasses.cxx  1.23
+  mcRootData/src/test/.cvsignore  1.1
+  mcRootData/src/test/leaktest.cxx  1.14
+  mcRootData/src/test/.rootrc  1.1
+
+    *
+------------------------------------------------------------
 User: heather  Thu Mar 15 10:00:14 PDT 2007
 mcRootData/src
 
