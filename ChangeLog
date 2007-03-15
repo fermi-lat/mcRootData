@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Thu Mar 15 10:00:14 PDT 2007
+mcRootData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+fix objmgr cleanup
+    *
+------------------------------------------------------------
+User: heather  Thu Mar 15 10:00:14 PDT 2007
 mcRootData/cmt
 
 Modified Files:
