@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: heather  Tue Oct 23 12:45:58 PDT 2007
+mcRootData/mcRootData
+
+Modified Files:
+	McEvent.h McIntegratingHit.h McParticle.h McPositionHit.h 
+	McTkrStrip.h McTrajectory.h 
+Log Message:
+create doxy documentation for workbook
+    *
+------------------------------------------------------------
+User: heather  Tue Oct 23 12:45:58 PDT 2007
 mcRootData/doc
 
 Modified Files:
