@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: usher  Fri Mar 28 08:28:57 PDT 2008
+mcRootData/src
+
+Modified Files:
+	McObjectManager.cxx 
+Log Message:
+Change std::max to std::min in determining how much bigger to make a given pool...
+    *
+------------------------------------------------------------
 TAG
 Tag name: v2r21p5, operation: add
 Package: mcRootData
