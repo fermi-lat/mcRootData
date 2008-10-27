@@ -1,4 +1,22 @@
 ------------------------------------------------------------
+User: ecephas  Mon Oct 27 10:03:40 PDT 2008
+GlastRelease-scons/mcRootData
+
+Modified Files:
+	SConscript 
+Log Message:
+Added 'mcRootData/LinkDef.h' to the list of headers in the libEnv.Rootcint function call.
+
+Changed
+
+test_mcRootData = progEnv.Program('test_mcRootData', listFiles(['src/test/*.cxx']))
+
+to
+
+test_mcRootData = progEnv.Program('test_mcRootData', ['src/test/testMcClasses.cxx']).
+
+    *
+------------------------------------------------------------
 User: ecephas  Fri Aug 15 14:42:39 PDT 2008
 GlastRelease-scons/mcRootData
 
