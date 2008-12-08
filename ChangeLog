@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+TAG
+Tag name: mcRootData-02-22-00, operation: add
+Package: mcRootData
+User: ecephas  Mon Dec  8 13:40:44 2008
+Files:
+  mcRootData/SConscript  1.3
+  mcRootData/SConscript  1.3
+
+    *
+------------------------------------------------------------
 User: ecephas  Mon Dec  8 13:40:38 PST 2008
 GlastRelease-scons/mcRootData
 
