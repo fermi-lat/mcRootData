@@ -2,6 +2,16 @@
 TAG
 Tag name: mcRootData-02-22-00, operation: add
 Package: mcRootData
+User: ecephas  Mon Dec  8 16:08:56 2008
+Files:
+  mcRootData/mcRootDataLib.py  1.2
+  mcRootData/mcRootDataLib.py  1.2
+
+    *
+------------------------------------------------------------
+TAG
+Tag name: mcRootData-02-22-00, operation: add
+Package: mcRootData
 User: ecephas  Mon Dec  8 13:40:44 2008
 Files:
   mcRootData/SConscript  1.3
