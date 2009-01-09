@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 TAG
+Tag name: GlastRelease-15-49-00, operation: add
+Package: mcRootData
+User: glastrm  Fri Jan  9 13:30:39 2009
+Files:
+  mcRootData/mcRootDataLib.py  1.2
+  mcRootData/SConscript  1.3
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: GlastRelease-15-50-10, operation: del
 Package: mcRootData
 User: glastrm  Fri Jan  9 08:31:46 2009
