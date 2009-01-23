@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+TAG
+Tag name: mcRootData-02-22-00, operation: mov
+Package: mcRootData
+User: glastrm  Thu Jan 22 16:31:32 2009
+Files:
+  mcRootData/SConscript  1.4
+  mcRootData/SConscript  1.4
+  mcRootData/SConscript  1.4
+
+    *
+------------------------------------------------------------
 User: ecephas  Thu Jan 22 16:07:10 PST 2009
 GlastRelease-scons/mcRootData
 
