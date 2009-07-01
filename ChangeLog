@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Wed Jul  1 09:59:29 PDT 2009
+mcRootData/doc
+
+Modified Files:
+	release.notes 
+Log Message:
+add EOH to release.notes
+    *
+------------------------------------------------------------
 TAG
 Tag name: mcRootData-02-22-00, operation: mov
 Package: mcRootData
