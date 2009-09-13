@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: heather  Sun Sep 13 06:43:44 PDT 2009
+mcRootData/src
+
+Modified Files:
+	McIntegratingHit.cxx McParticle.cxx McPositionHit.cxx 
+	McTrajectory.cxx 
+Log Message:
+warnings
+    *
+------------------------------------------------------------
+User: heather  Sun Sep 13 06:43:44 PDT 2009
 mcRootData/doc
 
 Modified Files:
