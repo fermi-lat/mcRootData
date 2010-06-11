@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Thu Jun 10 17:46:37 PDT 2010
+GlastRelease-scons/mcRootData
+
+Modified Files:
+	.cvsignore SConscript 
+Log Message:
+updates for SCons build
+    *
+------------------------------------------------------------
 TAG
 Tag name: mcRootData-02-22-01, operation: add
 Package: mcRootData
