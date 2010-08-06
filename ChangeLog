@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Fri Aug  6 12:05:21 PDT 2010
+GlastRelease-scons/mcRootData
+
+Modified Files:
+	SConscript 
+Log Message:
+add new keyword args to Rootcint call
+    *
+------------------------------------------------------------
 TAG
 Tag name: mcRootData-02-22-02, operation: add
 Package: mcRootData
