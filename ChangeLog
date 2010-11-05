@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: jrb  Fri Nov  5 15:53:58 PDT 2010
+GlastRelease-scons/mcRootData
+
+Modified Files:
+      Tag: GlastReleasev18r7p1
+	SConscript 
+Log Message:
+bug fix for rootcint handling in project file
+    *
+------------------------------------------------------------
 User: jrb  Fri Nov  5 15:18:21 PDT 2010
 mcRootData
 
