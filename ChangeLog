@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Feb  1 19:08:48 PST 2011
+mcRootData
+
+Modified Files:
+	SConscript 
+Log Message:
+patch LinkDef
+    *
+------------------------------------------------------------
 TAG
 Tag name: mcRootData-02-22-04, operation: add
 Package: mcRootData
