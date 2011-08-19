@@ -1,22 +1,4 @@
 ------------------------------------------------------------
-User: usher  Thu Aug 18 19:28:11 PDT 2011
-mcRootData
-
-Modified Files:
-	SConscript 
-Log Message:
-Preparing to tag mcRootData-02-22-06
-    *
-------------------------------------------------------------
-User: usher  Thu Aug 18 19:26:07 PDT 2011
-mcRootData/src
-
-Modified Files:
-	McIntegratingHit.cxx 
-Log Message:
-Add clear to the allocator in order to make sure the xtal map is actually cleared!
-    *
-------------------------------------------------------------
 TAG
 Tag name: GlastRelease-17-35-24-gr03, operation: add
 Package: mcRootData
