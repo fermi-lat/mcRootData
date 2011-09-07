@@ -2,6 +2,18 @@
 TAG
 Tag name: GlastRelease-17-35-24-gr04, operation: add
 Package: mcRootData
+User: heather  Wed Sep  7 14:20:26 2011
+Files:
+  mcRootData/src/test/testMcClasses.cxx  1.23
+  mcRootData/src/test/.cvsignore  1.1
+  mcRootData/src/test/leaktest.cxx  1.14
+  mcRootData/src/test/.rootrc  1.1
+
+    *
+------------------------------------------------------------
+TAG
+Tag name: GlastRelease-17-35-24-gr04, operation: add
+Package: mcRootData
 User: heather  Wed Sep  7 14:20:13 2011
 Files:
   mcRootData/.cvsignore  1.2
