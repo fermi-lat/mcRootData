@@ -1,5 +1,21 @@
 ------------------------------------------------------------
 TAG
+Tag name: GlastRelease-19-03-07, operation: add
+Package: mcRootData
+User: heather  Wed Sep  7 10:27:49 2011
+Files:
+  mcRootData/.cvsignore  1.2
+  mcRootData/ChangeLog  1.441
+  mcRootData/mcRootDataLib.py  1.2
+  mcRootData/SConscript  1.13
+  mcRootData/cmt/.cvsignore  1.2
+  mcRootData/cmt/NMake  1.1.1.1
+  mcRootData/cmt/requirements  1.89
+  mcRootData/cmt/Makefile  1.1.1.1
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: GlastRelease-19-03-07, operation: del
 Package: mcRootData
 User: glastrm  Tue Sep  6 14:17:05 2011
