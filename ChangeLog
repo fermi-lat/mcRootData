@@ -1,5 +1,49 @@
 ------------------------------------------------------------
 TAG
+Tag name: GlastRelease-20-05-00, operation: add
+Package: mcRootData
+User: heather  Wed Sep  5 11:45:18 2012
+Files:
+  mcRootData/.cvsignore  1.2
+  mcRootData/ChangeLog  1.538
+  mcRootData/mcRootDataLib.py  1.3
+  mcRootData/SConscript  1.14
+  mcRootData/cmt/.cvsignore  1.2
+  mcRootData/cmt/NMake  1.1.1.1
+  mcRootData/cmt/requirements  1.90
+  mcRootData/cmt/Makefile  1.1.1.1
+  mcRootData/doc/.cvsignore  1.1
+  mcRootData/doc/release.notes  1.72
+  mcRootData/doc/mcRootData.html  1.1
+  mcRootData/doc/Doxyfile  1.1
+  mcRootData/doc/images/mcTree.gif  1.3
+  mcRootData/doc/styles/site.css  1.1
+  mcRootData/mcRootData/McEvent.h  1.20
+  mcRootData/mcRootData/LinkDef.h  1.8
+  mcRootData/mcRootData/McPositionHit.h  1.23
+  mcRootData/mcRootData/McTrajectory.h  1.7
+  mcRootData/mcRootData/.cvsignore  1.2
+  mcRootData/mcRootData/McParticle.h  1.17
+  mcRootData/mcRootData/McTkrStrip.h  1.4
+  mcRootData/mcRootData/McIntegratingHit.h  1.21
+  mcRootData/src/McObjectManager.h  1.2
+  mcRootData/src/McObjectManager.cxx  1.2
+  mcRootData/src/McTrajectory.cxx  1.8
+  mcRootData/src/McTkrStrip.cxx  1.1
+  mcRootData/src/.cvsignore  1.1.1.1
+  mcRootData/src/mainpage.h  1.8
+  mcRootData/src/McParticle.cxx  1.13
+  mcRootData/src/McPositionHit.cxx  1.19
+  mcRootData/src/McEvent.cxx  1.33
+  mcRootData/src/McIntegratingHit.cxx  1.17
+  mcRootData/src/test/testMcClasses.cxx  1.23
+  mcRootData/src/test/.cvsignore  1.1
+  mcRootData/src/test/leaktest.cxx  1.14
+  mcRootData/src/test/.rootrc  1.1
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: GlastRelease-20-05-00, operation: del
 Package: mcRootData
 User: glastrm  Thu Aug 30 11:47:44 2012
