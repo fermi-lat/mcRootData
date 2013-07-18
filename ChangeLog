@@ -2,6 +2,14 @@
 TAG
 Tag name: GlastRelease-17-35-24-lp48, operation: add
 Package: mcRootData
+User: heather  Thu Jul 18 10:20:49 2013
+Files:
+
+    *
+------------------------------------------------------------
+TAG
+Tag name: GlastRelease-17-35-24-lp48, operation: add
+Package: mcRootData
 User: heather  Thu Jul 18 09:56:57 2013
 Files:
   mcRootData/.cvsignore  1.2
