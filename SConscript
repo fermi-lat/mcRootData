@@ -17,7 +17,7 @@ mcRootDataRootcint = libEnv.Rootcint('mcRootData/mcRootData_rootcint',
                                       'mcRootData/McEvent.h',
                                       'mcRootData/McTrajectory.h',
                                       'mcRootData/LinkDef.h'],
-                                     includes = [''], localIncludes = locIncs,
+                                     includes = ['','../include'], localIncludes = locIncs,
                                      packageName = 'mcRootData')
 
 mcRootData = libEnv.RootDynamicLibrary('mcRootData',
